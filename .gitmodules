@@ -1,0 +1,3 @@
+[submodule "holo-spot"]
+	path = holo-spot
+	url = git@github.com:dehezhang2/holo-spot.git
